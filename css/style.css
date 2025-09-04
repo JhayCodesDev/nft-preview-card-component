@@ -50,7 +50,7 @@ body{
 } 
 
 .overlay .eye-icon {
-    max-width: auto;
+    width: 50px;
 }
 
 .content h3{
